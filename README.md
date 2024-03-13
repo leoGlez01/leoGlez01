@@ -14,7 +14,7 @@
     <br>
     <li><strong>Desktop Applications</strong> :  PyQt6, Tkinter.</li>
     <br>
-    <li><strong>Developer Tools</strong> :  Git, GitHub, VsCode, Atom, PyCharm, Qt Designer, Adobe Illustrator, Figma.</li>
+    <li><strong>Developer Tools</strong> :  Git, GitHub, VsCode, PyCharm, Qt Designer, Adobe Illustrator, Figma.</li>
     <br>
     <li><strong>Deployment/Hostings</strong> :  Render, Fl0, Railway, AWS, Google Cloud Service</li>
   </ul>
