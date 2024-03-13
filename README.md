@@ -4,7 +4,7 @@
   
   ### 💻 My Technologies and Tools
   <ul align="left">
-    <li><strong>Programming Languages</strong> :  Python, C++, JavaScript, HTML, CSS, Plpgsql, SQL.</li>
+    <li><strong>Programming Languages</strong> :  Python, C++, JavaScript, SQL.</li>
     <br>
     <li><strong>Frameworks and Libraries</strong> :  Django, Rest Framework, Docker, Kubernets, Daphne, Django-Channels, Tailwind CSS, Vue Js, Redis, JsonWebToken, CorsHeaders.</li>
     <br>
