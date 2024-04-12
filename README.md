@@ -6,17 +6,17 @@
   <ul align="left">
     <li><strong>Programming Languages</strong> :  Python, C++, JavaScript, SQL.</li>
     <br>
-    <li><strong>Frameworks and Libraries</strong> :  Django, Rest Framework, Docker, Kubernets, Daphne, Django-Channels, Tailwind CSS, Vue Js, Redis, JsonWebToken, CorsHeaders.</li>
+    <li><strong>Frameworks and Libraries</strong> :  Django, Rest Framework, Django-Channels, React Js, BioPython, MatplotLib, Docker, Kubernets, Celery, Tailwind CSS, Redis, JsonWebToken.</li>
     <br>
-    <li><strong>Architecture Patterns and Methodologies</strong> :  Restful API, SCRUM, RUP, MVC, Monolithic Architecture, Microservices.</li>
+    <li><strong>Architecture Patterns and Methodologies</strong> : Hexagonal Architecture, Screaming Architecture, Restful API, SCRUM, MVC, Monolithic Architecture, Microservices.</li>
     <br>
     <li><strong>Databases</strong> :  PostgreSql, MySql, Sqlite3, MongoDB.</li>
     <br>
-    <li><strong>Desktop Applications</strong> :  PyQt6, Tkinter.</li>
+    <li><strong>Desktop Applications</strong> :  PyQt, Tkinter.</li>
     <br>
     <li><strong>Developer Tools</strong> :  Git, GitHub, VsCode, PyCharm, Qt Designer, Adobe Illustrator, Figma.</li>
     <br>
-    <li><strong>Deployment/Hostings</strong> :  Render, Fl0, Railway, AWS, Google Cloud Service</li>
+    <li><strong>Deployment/Hostings</strong> :  Azure, CloudFlare, Railway, AWS, Google Cloud Service</li>
   </ul>
 
   ### 🔍My Interests
@@ -33,7 +33,7 @@
 
   ### 📚Education
   <ul>
-  <li>University of Informatic Sciences</li>
+  <li>Fac. Computational sciences and technologies(University of Informatic Sciences)</li>
   </ul>
     <br>
   <p><strong>Let's connect and collaborate. Contact me at :</strong></p>
