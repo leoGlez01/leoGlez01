@@ -6,7 +6,7 @@
   <ul align="left">
     <li><strong>Programming Languages</strong> :  Python, C++, JavaScript, SQL.</li>
     <br>
-    <li><strong>Frameworks and Libraries</strong> :  Django, Rest Framework, Django-Channels, React Js, BioPython, MatplotLib, Docker, Kubernets, Celery, Tailwind CSS, Redis, JsonWebToken.</li>
+    <li><strong>Frameworks and Libraries</strong> :  Django, Rest Framework, Django-Channels, React Js, BioPython, MatplotLib, Celery, Tailwind CSS, Redis, JsonWebToken.</li>
     <br>
     <li><strong>Architecture Patterns and Methodologies</strong> : Hexagonal Architecture, Screaming Architecture, Restful API, SCRUM, MVC, Monolithic Architecture, Microservices.</li>
     <br>
@@ -16,7 +16,7 @@
     <br>
     <li><strong>Developer Tools</strong> :  Git, GitHub, VsCode, PyCharm, Qt Designer, Adobe Illustrator, Figma.</li>
     <br>
-    <li><strong>Deployment/Hostings</strong> :  Azure, CloudFlare, Railway, AWS, Google Cloud Service</li>
+    <li><strong>Deployment/Hostings</strong> :  Docker, Kubernets, Azure, CloudFlare, Railway, AWS, Google Cloud Service</li>
   </ul>
 
   ### 🔍My Interests
