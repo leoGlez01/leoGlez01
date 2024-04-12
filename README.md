@@ -33,7 +33,7 @@
 
   ### 📚Education
   <ul>
-  <li>Fac. Computational sciences and technologies(University of Informatic Sciences)</li>
+  <li>Fac. Computational Sciences and Technologies(University of Informatic Sciences)</li>
   </ul>
     <br>
   <p><strong>Let's connect and collaborate. Contact me at :</strong></p>
