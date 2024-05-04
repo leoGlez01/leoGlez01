@@ -1,5 +1,5 @@
 <h1 align="left">👋Hi! I'm Leo</h1> 
-  <p align="left"><i> Python FullStack Developer</i></p>
+  <p align="left"><i>FullStack Developer</i></p>
   
   
   ### 💻 My Technologies and Tools
