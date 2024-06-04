@@ -6,7 +6,7 @@
 <li> I am passionate about facing new challenges and finding creative and innovative solutions through software development. I specialize in backend development, scripting, automation and bioinformatics.</li>
 <li>I have experience as a freelancer working in the roles of fullstack developer, backend developer and junior data scientist.</li>
 <h2>Personal Achievements</h2>
-<li>Open source python library for encoding text strings: <a href="https://pypi.org/project/encryptedcode/">view</a></li>
+<li>Web and desktop application for bioinformatics work: <a href="https://github.com/leoGlez01/x-lab-phylogenetics-ui.git">view</a></li>
 <li>Free programming blog oriented to tutorials with examples of projects for those who are just starting out in this beautiful world: <a href="https://cyber-coffee.vercel.app/">view</a></li>
 <li>Free streaming platform to watch movies, series and much more (Work in Progress): <a href="https://github.com/Moreflix/Client">view</a></li>
 
