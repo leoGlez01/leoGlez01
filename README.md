@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Leo!</h1>
+<h1 align="left">Hi 👋🏻 I'm Leo!</h1>
 <p align="left"><i>Full Stack Developer</i></p>
 <i width="80px">Open to Work</i> <a href="https://leoglez.vercel.app/src/CV.pdf">📄</a>
 <h2>About Me</h2>
