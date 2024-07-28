@@ -24,6 +24,6 @@
 <li>Problem Solving 🧠</li>
 
 <h2>Contact Me</h2>
-Email 📫 -> <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGKnXDtzkcXxVkxgsJzMnJfgQgwlcSdFtFcRDJlRGnVxnsTRftLKcHXKHZgVqdmxXdGHFDs">lworkgonzalez01@gmail.com</a> <br/>
+Email 📫 -> <a href="mailto:gonzalezdeveloper01@gmail.com">hello@Leo_Gonzalez</a> <br/>
 My Site 🔗 -> <a href="https://leoglez.vercel.app/">leoglez</a> <br/>
 LinkedIn -> <a href="https://linkedin.com/in/leandro-gonz%C3%A1lez-1a920825b">Leo Gonzalez</a> <br/>
