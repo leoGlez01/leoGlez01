@@ -10,10 +10,13 @@
 <li>Free programming blog oriented to tutorials with examples of projects for those who are just starting out in this beautiful world: <a href="https://cyber-coffee.vercel.app/">view</a></li>
 <li>Free streaming platform to watch movies, series and much more (Work in Progress): <a href="https://github.com/Moreflix/Client">view</a></li>
 
+
 <h2>Skills</h2>
 <li>Python 🐍</li>
 <li>JavaScript ☕</li>
+<li>Dart 📳</li>
 <li>Backend Developer 💻</li>
+<li>Mobile Developer 📱</li>
 <li>FrontEnd Developer ⚛️</li>
 <li>Data Bases 🗄️</li>
 <li>Bioinformatics 🧬</li>
