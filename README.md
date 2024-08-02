@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋🏻 I'm Leo!</h1>
 <p align="left"><i>Full Stack Developer</i></p>
-<i width="80px">Open to Work</i> <a href="https://leoglez.vercel.app/src/CV.pdf">📄</a>
+<i width="80px">Open to Work -></i> <a href="https://leoglez.vercel.app/src/CV.pdf">📄CV</a>
 <h2>About Me</h2>
 <li>My name is Leandro González Espinosa, I am 22 years old and I graduated from the Fac. Computational Sciences and Technologies(University of Informatic Sciences of Cuba)</li>
 <li> I am passionate about facing new challenges and finding creative and innovative solutions through software development. I specialize in backend development, scripting, automation and bioinformatics.</li>
-<li>I have experience as a freelancer working in the roles of fullstack developer, backend developer and junior data scientist.</li>
+<li>I have experience as a freelancer working in the roles of Fullstack Developer, Backend Developer, Mobile Developer and Jr Data Scientist.</li>
 <h2>Personal Achievements</h2>
 <li>Web and desktop application for bioinformatics work: <a href="https://github.com/leoGlez01/x-lab-phylogenetics-ui.git">view</a></li>
 <li>Free programming blog oriented to tutorials with examples of projects for those who are just starting out in this beautiful world: <a href="https://cyber-coffee.vercel.app/">view</a></li>
@@ -14,7 +14,7 @@
 <h2>Skills</h2>
 <li>Python 🐍</li>
 <li>JavaScript ☕</li>
-<li>Dart 📳</li>
+<li>React Native [Expo] 📳</li>
 <li>Backend Developer 💻</li>
 <li>Mobile Developer 📱</li>
 <li>FrontEnd Developer ⚛️</li>
