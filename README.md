@@ -13,7 +13,7 @@
 
 <h2>Skills</h2>
 <li>Python 🐍</li>
-<li>JavaScript ☕</li>
+<li>JavaScript | TypeScript ☕</li>
 <li>React Native [Expo] 📳</li>
 <li>Backend Developer 💻</li>
 <li>Mobile Developer 📱</li>
