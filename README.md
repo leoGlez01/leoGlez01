@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋🏻 I'm Leo!</h1>
 <p align="left"><i>Full Stack Developer</i></p>
-<i width="80px">Open to Work -></i> <a href="https://leoglez.vercel.app/src/CV.pdf">📄CV</a>
+<i width="80px">Open to Work -></i> <a href="https://leoglez.vercel.app/cv.pdf">📄CV</a>
 <h2>About Me</h2>
 <li>My name is Leandro González Espinosa, I am 22 years old and I graduated from the Fac. Computational Sciences and Technologies(University of Informatic Sciences of Cuba)</li>
 <li> I am passionate about facing new challenges and finding creative and innovative solutions through software development. I specialize in backend development, scripting, automation and bioinformatics.</li>
