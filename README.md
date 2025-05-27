@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋🏻 I'm Leo!</h1>
+<h1 align="left">Hi there 👋🏻 i'm Leo!</h1>
 <img width="80dvh" height="auto" align="right" src="https://imgs.search.brave.com/fr3PUv9pcEm5OWWF3xP1SAOTfObUFPiFOacNmSe0yhs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtZ3JhdGlz/L2d1aXRhcnJpc3Rh/LWFuaW1hZG9fMTM4/NS0zOS5qcGc_c2Vt/dD1haXNfaHlicmlk" />
 <p align="left"><i>Full Stack Developer</i></p>
 <i width="80px">Open to Work -></i> <a href="https://leoglez.vercel.app/cv.pdf">📄CV</a>
