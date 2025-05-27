@@ -9,7 +9,6 @@
 <h2>Personal Achievements</h2>
 <li>Web and desktop application for bioinformatics work: <a href="https://github.com/leoGlez01/x-lab-phylogenetics-ui.git">view</a></li>
 <li>Free programming blog oriented to tutorials with examples of projects for those who are just starting out in this beautiful world: <a href="https://cyber-coffee.vercel.app/">view</a></li>
-<li>Free streaming platform to watch movies, series and much more (Work in Progress): <a href="https://github.com/Moreflix/Client">view</a></li>
 
 
 <h2>Skills</h2>
