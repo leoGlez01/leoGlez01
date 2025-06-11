@@ -3,7 +3,7 @@
 <p align="left"><i>Full Stack Developer</i></p>
 <i width="80px">Open to Work -></i> <a href="https://leoglez.vercel.app/cv.pdf">📄CV</a>
 <h2>About Me</h2>
-<li>My name is Leandro González Espinosa, I am 22 years old and I graduated from the Fac. Computational Sciences and Technologies(University of Informatic Sciences of Cuba)</li>
+<li>My name is Leandro González Espinosa, I am 24 years old and I graduated from the Fac. Computational Sciences and Technologies(University of Informatic Sciences of Cuba)</li>
 <li> I am passionate about facing new challenges and finding creative and innovative solutions through software development. I specialize in backend development, scripting, automation and bioinformatics.</li>
 <li>I have experience as a freelancer working in the roles of Fullstack Developer, Backend Developer, Mobile Developer and Jr Data Scientist.</li>
 <h2>Personal Achievements</h2>
